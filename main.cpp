@@ -9,5 +9,6 @@ int main()
     {
         std::cout << value << " ";
     }
+    std::cout << endl;
     return 0;
 }
